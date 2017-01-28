@@ -1,0 +1,13 @@
+---
+title: "Main"
+author: "EFV"
+date: "January 28, 2017"
+output: html_document
+---
+
+
+R tutorials
+
+
+[http://rpubs.com/franco24601/day1part1]
+
